@@ -10,7 +10,7 @@ namespace CollectionsMasterConsoleUI
     {
         static void Main(string[] args)
         {
-            //TODO: Follow the steps provided in the comments under each region.
+       //DONE --- Follow the steps provided in the comments under each region.
             //Make the console formatted to display each section well
             //Utlilize the method stubs at the bottom for the methods you must create
 
